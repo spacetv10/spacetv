@@ -45,7 +45,7 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w517772642.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VDZyVg4.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",TBC BRASIL CENTRALᴴᴰ 🇧🇷 🟡
 https://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/tvAparecida.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",TV APARECIDAᴴᴰ 🇧🇷 🟡
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egU0jsZ.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",TV APARECIDAᴴᴰ 🇧🇷 🟡
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fQJ3YJca6CthZhz8hhraveyTEnzXzF2Tp7PmkdLupAvVgZCsPeoY9ffJrEyGR9ulQO2N_D8R=s900-c-k-c0x00ffffff-no-rj" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",DEPUTADOS AQUIᴴᴰ 🇧🇷 🟡
@@ -71,8 +71,41 @@ https://stream1.freetv.fun/tv-gazeta-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SY31PgU.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",GLOBO ESPORTE FASTᴴᴰ 🇧🇷 🟡
 https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
 
-#EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/Canal_Loading.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",LOADING TVᴴᴰ 🇧🇷 🟡
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",LOADING TVᴴᴰ 🇧🇷 🟡
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w980742413.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/z6fztIDz9Um1Bsn-ewWDllticzUjeQM148ORNt_d-Qn6sVZdEQrIJwAIMBHt_qYrmC-GH3X1Aw=s900-c-k-c0x00ffffff-no-rj" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",METROPOLIS newsᴴᴰ 🇧🇷 🟡
 https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/FxZLUmE.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",TVMAXᴴᴰ 🇧🇷 🟡
+https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/chunklist_w1692112557.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NDFJlck.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",ISTVᴴᴰ 🇧🇷 🟡
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/SECULO.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",TVSECULO XXIᴴᴰ 🇧🇷 🟡
+https://cdn.live.br1.jmvstream.com/w/LVW-10024/LVW10024_H3QLdAY6kx/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/Rede_Vida_logo.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", REDE VIDAᴴᴰ 🇧🇷 🟡
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/imaculada.jpg" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", IMACULADA TVᴴᴰ 🇧🇷 🟡
+https://caikron.com.br:19360/tvmi/tvmi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O7Uv6KO.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",REDE CLOUDINGᴴᴰ 🇧🇷 🟡
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1798476362.m3u8
+
+#EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/playtv.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",playtvᴴᴰ 🇧🇷 🟡
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K4IrU99.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",ANIMETVᴴᴰ 🇧🇷 🟡
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1813557784.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nova_Play_logo.svg/1200px-Nova_Play_logo.svg.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",NOVAPLAYᴴᴰ 🇧🇷 🟡
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/OTAKU%20SIGN%20TV.jpg" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",OTAKUᴴᴰ 🇧🇷 🟡
+https://stmv1.srvif.com/otaku/otaku/chunklist_w220269767.m3u8
+
+#EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/World_Poker_Tour_2022_Logo.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", World Poker Tour
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
