@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTM3U size="Medium"
 
 
@@ -21,8 +23,31 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/46
 #EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="📺PARABOLICA" pltv-subgroup="📺CANAIS ABERTOS",Bandᴴᴰ 🇧🇷 🟡
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/48
 
-#EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/top%20tv.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", TOP TVᴴᴰ 🇧🇷 🟡
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G5SWqHS.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", TOP TVᴴᴰ 🇧🇷 🟡
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/LOGO_TV_DIARIO_2023.png/1200px-LOGO_TV_DIARIO_2023.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",TV DIARIOᴴᴰ 🇧🇷 🟡
 http://dns.6tp.xyz/live/luizneto/997143156/2751880.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8uGhB6m.png" group-title="📺PARABOLICA",MTV Biggest Pop
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aa3200-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93901adb-1cd6-4054-9f35-6f3746b30848&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",UNIAOTV PLAYᴴᴰ 🇧🇷 🟡
+https://live.1wkd.alibsoft.com/hls/JajP7nYSpbv1SPCT.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",REDE BRASILᴴᴰ 🇧🇷 🟡
+https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/WORDINGTV.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", WORDING TVᴴᴰ 🇧🇷 🟡
+https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w517772642.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VDZyVg4.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",TBC BRASIL CENTRALᴴᴰ 🇧🇷 🟡
+https://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/tvAparecida.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",TV APARECIDAᴴᴰ 🇧🇷 🟡
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fQJ3YJca6CthZhz8hhraveyTEnzXzF2Tp7PmkdLupAvVgZCsPeoY9ffJrEyGR9ulQO2N_D8R=s900-c-k-c0x00ffffff-no-rj" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",DEPUTADOS AQUIᴴᴰ 🇧🇷 🟡
+https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/chunklist_b4628000.m3u8
+
