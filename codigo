@@ -4,7 +4,7 @@
 #############################################CANAIS ABERTOS# ################################################# ##########
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ZysAGz0.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", INFORMATIVO 🇧🇷 🟡
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
+https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",TV GLOBOᴴᴰ 🇧🇷 🟡
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/504
