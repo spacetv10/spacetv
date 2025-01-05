@@ -63,16 +63,13 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w53607588.m3u8
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",FUTURAᴴᴰ 🇧🇷 🟡
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/158
+https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tvgazeta.com.br/uploads/2015/10/share-logo-tv.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",TV GAZETAᴴᴰ 🇧🇷 🟡
-https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+https://stream1.freetv.fun/tv-gazeta-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SY31PgU.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",GLOBO ESPORTE FASTᴴᴰ 🇧🇷 🟡
 https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="📺PARABOLICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1200px-Radio_m2o_-_Logo_2019.svg.png" pltv-subgroup="CANAIS ABERTOS",M20TV
-https://vdnisha1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b764000.m3u8
 
 #EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/Canal_Loading.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",LOADING TVᴴᴰ 🇧🇷 🟡
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w980742413.m3u8
