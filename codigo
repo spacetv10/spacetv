@@ -121,5 +121,5 @@ https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w164316714.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/Red-Bull-Emblema.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",REDBULL TVᴴᴰ 🇧🇷 🟡
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-#EXTINF:-1 tvg-id="95" tvg-name="Futura FHD" tvg-logo="http://reitv.me:80/images/MvVZDxq03E6WOSiDribtrW2_hbejvUw-4UoNMT7pa8K4K6kM89WKVcBiWZ5gXCpR.png" group-title="TV |  ABERTOS",Futura FHD
+#EXTINF:-1 tvg-id="95" tvg-name="Futura FHD" tvg-logo="http://reitv.me:80/images/MvVZDxq03E6WOSiDribtrW2_hbejvUw-4UoNMT7pa8K4K6kM89WKVcBiWZ5gXCpR.png" group-title="📺TV |  ABERTOS",Futura FHD
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
