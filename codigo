@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTM3U size="Medium"
-
-
 #############################################CANAIS ABERTOS# ################################################# ##########
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ZysAGz0.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", INFORMATIVO 🇧🇷 🟡
@@ -62,9 +59,6 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w53607588.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Amazon_sat_logo_2022.svg" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",AMAZONSATᴴᴰ 🇧🇷 🟡
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",FUTURAᴴᴰ 🇧🇷 🟡
-https://tv.unisc.br/hls/test.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.tvgazeta.com.br/uploads/2015/10/share-logo-tv.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",TV GAZETAᴴᴰ 🇧🇷 🟡
 https://stream1.freetv.fun/tv-gazeta-1.m3u8
 
@@ -109,3 +103,19 @@ https://stmv1.srvif.com/otaku/otaku/chunklist_w220269767.m3u8
 
 #EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/World_Poker_Tour_2022_Logo.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", World Poker Tour
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/canal-29.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",CANAL29ᴴᴰ 🇧🇷 🟡
+https://stmv1.srvif.com/canal29/canal29/chunklist_w1283218733.m3u8
+
+#EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/tvone.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",TVONEᴴᴰ 🇧🇷 🟡
+https://video02.logicahost.com.br/tvone/tvone/chunklist_w1538167296.m3u8
+
+#EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/Logo_do_Darkflix.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", DarkFlixᴴᴰ 🇧🇷 🟡
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/x.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", XTREMᴴᴰ 🇧🇷 🟡
+https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w164316714.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/Red-Bull-Emblema.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",REDBULL TVᴴᴰ 🇧🇷 🟡
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
