@@ -1,8 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="INFORMATIVO" tvg-logo="https://imgur.com/ZysAGz0.png" group-title="TV |  ABERTOS",INFORMATIVO 🇧🇷 🟡
+#EXTINF:-1 tvg-id="1" tvg-name="INFORMATIVO" tvg-logo="https://imgur.com/ZysAGz0.png" group-title="TV |  ABERTOS",INFORMATIVO 
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="TV GLOBO" tvg-logo="https://imgur.com/waZJG1M.png" group-title="TV |  ABERTOS",TV GLOBOᴴᴰ 🇧🇷 🟡
+#EXTINF:-1 tvg-id="2" tvg-name="TV GLOBO" tvg-logo="https://imgur.com/waZJG1M.png" group-title="TV |  ABERTOS",TV GLOBO
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/504
+
+#EXTINF:-1 tvg-id="3" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="TV |  ABERTOS",SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?ManoTV
