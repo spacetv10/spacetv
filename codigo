@@ -120,9 +120,6 @@ https://stmv1.srvif.com/tvserie/tvserie/chunklist_w2066738976.m3u8
 #EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/CATHOLICTV.jpg" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", TV CATOLICA EUA
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", 24H NEWS
-http://cdn.connectbr.com.br/24_news/index.m3u8?ManoTV
-
 #EXTINF:-1 tvg-logo="" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", TK FOOD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
@@ -135,3 +132,269 @@ https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", PLUTO TV TURBO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+====☛ CANAIS INFANTIL ☚==== 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="👨‍🚀CRIANÇA",Cocoricó
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="👨‍🚀CRIANÇA",Bob Esponja Calça Quadrada
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Nick Teen" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="👨‍🚀CRIANÇA",Nick Teen
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c56030-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7b86a23-4b64-4f9c-9c4c-bedb3edcc1b1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4a5RFCU.png" group-title="👨‍🚀CRIANÇA",Pluto TV Junior
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=978179f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc2b3e9d-2c6a-4239-b56d-b64e1afa1902&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="O Reino Infantil" tvg-logo="https://imgur.com/ElG7z3z.png" group-title="👨‍🚀CRIANÇA",O Reino Infantil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="As Aventuras de Jackie Chan" tvg-logo="https://imgur.com/VNrPzdh.png" group-title="👨‍🚀CRIANÇA",As Aventuras de Jackie Chan
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c38b71-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a519ea2b-1a16-4441-9e07-a7ef103cd260&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/g505N5r.png" group-title="👨‍🚀CRIANÇA",Pluto TV 👨‍🚀CRIANÇA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a101-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46e9fe4e-4908-4a98-8fa8-41e5460e3ce5&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="👨‍🚀CRIANÇA",Nickelodeon HD
+http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j9CMGyU.png" group-title="👨‍🚀CRIANÇA",Nick Jr. Club
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kJHRcfo.png" group-title="👨‍🚀CRIANÇA",Turma da Mônica
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846021-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dd3fbda-a8d5-4964-8b9e-6f6e95a3db5e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Nick Clássico" tvg-name="NICK JR" tvg-logo="https://imgur.com/P1l0cnx.png" group-title="👨‍🚀CRIANÇA",NICK CLÁSSICO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-id="A Vida moderna de Rocko" tvg-name="A Vida moderna de Rocko" tvg-logo="https://imgur.com/iu4Xbjd.png" group-title="👨‍🚀CRIANÇA",A Vida moderna de Rocko
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846020-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c2c3d24-7129-4534-95c8-5bbb6a0ce9f6&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Babyfirst" tvg-name="Babyfirst" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="👨‍🚀CRIANÇA",Babyfirst
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="👨‍🚀CRIANÇA",Super Onze
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1jXXHVr.png" group-title="👨‍🚀CRIANÇA",Rugrats
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="👨‍🚀CRIANÇA",Os Padrinhos Mágicos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/6202a7fcfb1b100008811f54/colorLogoPNG.png" group-title="👨‍🚀CRIANÇA",Nickelodeon Rocket Power
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcfb1b100008811f54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHhxhRb.png" group-title="👨‍🚀CRIANÇA",As Pistas de Blue
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png" group-title="👨‍🚀CRIANÇA",Baby Shark
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="👨‍🚀CRIANÇA",AS Tartarugas Ninja
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png" group-title="👨‍🚀CRIANÇA",Moranguinho
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://imgur.com/t5RZzN7.png" group-title="👨‍🚀CRIANÇA",TELETUBBIES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e50055286f6b000838c067/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/q7Jadd8.png" group-title="👨‍🚀CRIANÇA",PAW Patrol Patrulha Canina
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6df0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/trwd2sT.png" group-title="👨‍🚀CRIANÇA",Peppa Pig YT
+https://ythls.armelin.one/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/oBo-NVXMmfaCLcjiWM2G8mIxFw-LIEck0w_RAZ5Ciawsi-7duneoEQ3qcmR4R6jAkVPaxOrqig" group-title="👨‍🚀CRIANÇA",A Casa Mágica da Gabby YT
+https://ythls.armelin.one/channel/UC4bG4HsFDLpm1qTPDqZFRgA.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/MdTw4GF.png" group-title="👨‍🚀CRIANÇA",Talking Tom & Amigos YT
+https://ythls.armelin.one/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/apmQ6X7.png" group-title="👨‍🚀CRIANÇA",Os Simpsons YT
+https://ythls.armelin.one/channel/UCupA2IcTno-zPIadjZVkhig.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0iT4S27.png" group-title="👨‍🚀CRIANÇA",Caverna do Dragão 
+https://ythls.armelin.one/channel/UCrDjVXUA3_yLgKcXyR-4Csw.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="👨‍🚀CRIANÇA",Oggy e as Baratas Tontas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/y9bZ4rD.png" group-title="👨‍🚀CRIANÇA",Clubinho 
+http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="👨‍🚀CRIANÇA",Baby Shark | México
+https://newidco-babysharktv-2-mx.samsung.wurl.tv/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="👨‍🚀CRIANÇA",Toon Googles | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sqUlcaY.png" group-title="👨‍🚀CRIANÇA",Os Jetsons | Brasil
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K4IrU99.png" group-title="👨‍🚀CRIANÇA",Animes TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0rAnW4w.png" group-title="👨‍🚀CRIANÇA",Chespirito
+http://168.205.87.198:8555/live/1492/123456/159.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/3bvMvx2.png" group-title="👨‍🚀CRIANÇA",Rakuten Família
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="👨‍🚀CRIANÇA",Cartoon Network HD
+http://187.95.95.243:80/Cartoon-Network/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="👨‍🚀CRIANÇA",Cartoon Network FHD
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/347
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="👨‍🚀CRIANÇA",Cartoon Network Live HD
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="👨‍🚀CRIANÇA",Cartoon Network 2 live HD
+https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="👨‍🚀CRIANÇA",CARTOONITO HD
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-720p.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="👨‍🚀CRIANÇA",Tooncast HD
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY 👨‍🚀CRIANÇA" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="👨‍🚀CRIANÇA",DISCOVERY 👨‍🚀CRIANÇA HD
+http://170.82.200.35/discovery_kids/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY 👨‍🚀CRIANÇA" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="👨‍🚀CRIANÇA",DISCOVERY 👨‍🚀CRIANÇA Live
+https://playout.cdn.cartoonnetwork.com.br/playout07/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sRw3v0a.png" group-title="👨‍🚀CRIANÇA",GLOOBINHO HD
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/360
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="👨‍🚀CRIANÇA",GLOOB HD
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/358
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dO4krB3.png" group-title="👨‍🚀CRIANÇA",TV RA TIM BUM HD
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/557
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="👨‍🚀CRIANÇA",DRAGON BALL Z
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/687
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="👨‍🚀CRIANÇA",DRAGON BALL SUPER
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/686
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="👨‍🚀CRIANÇA",DRAGON BALL
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/684
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/WHmHmUH.png" group-title="👨‍🚀CRIANÇA",Zoomoo HD
+https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="👨‍🚀CRIANÇA",RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BmmsPO8.png" group-title="👨‍🚀CRIANÇA",TVZYN
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="👨‍🚀CRIANÇA" pltv-subgroup="👨‍🚀CRIANÇA", ABN
+https://3abn-live.akamaized.net/hls/live/2010550/CRIANÇA/SQs/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="👨‍🚀CRIANÇA" pltv-subgroup="👨‍🚀CRIANÇA",RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w2022106371.m3u8
+#EXTINF:-1 tvg-logo="" group-title="👨‍🚀CRIANÇA" pltv-subgroup="👨‍🚀CRIANÇA",Jetsons
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="👨‍🚀CRIANÇA" pltv-subgroup="👨‍🚀CRIANÇA",caverna do Dragao
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="👨‍🚀CRIANÇA" pltv-subgroup="👨‍🚀CRIANÇA",BABY SHARK
+https://newidco-babysharktv-2-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="👨‍🚀CRIANÇA" pltv-subgroup="👨‍🚀CRIANÇA",PLAY👨‍CRIANÇA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+#EXTINF:-1 tvg-logo="" group-title="👨‍🚀CRIANÇA" pltv-subgroup="👨‍🚀CRIANÇA",NICK
+http://187.95.95.247/Nickelodeon/index.m3u8
+
+#EXTINF:-1 group-title="👨‍🚀CRIANÇA" tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2023/06/KuriakosKids_curvas.jpg",kuriakos kidsᴴᴰ 🇵🇹
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://imgur.com/3bvMvx2.png",Rakuten Família 🇵🇹 🟠
+https://bit.ly/3MFhgrA?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/12b63cde9f5a61c7e0ec1e00aa89d058d1a50e44/Logos/Ducktv.svg",Duck tv 
+http://iptv.prosto.tv:7000/ch209/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Babyfirst.png",Baby Firts 🇧🇷 🟠
+https://bit.ly/BabyFirts?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ReinoInfantil.png",O Reino Infantilᴴᴰ 🇧🇷 🟠
+https://bit.ly/3ssv2Uy?profile=inspirationlivetv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/DisneyChannel.png",Disnay Channelᴴᴰ 🇧🇷
+http://51.83.238.223:16274/DisnayChannel
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CartoonNetwork.png",Cartoon Network 🇧🇷
+http://199.127.60.83:14687/CartoonNetwork
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200",Cartoon Network 🇧🇷 ²
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200",Cartoon Network ³ 🇧🇷
+https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://i.imgur.com/iNiHThl.png",DreamWorksᴴᴰ 🇧🇷 ❌
+#
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://i.imgur.com/iNiHThl.png",DreamWorksᴴᴰ 🇪🇸
+http://486690696414321229.ofip231209.xyz:80/play/Rubia/4t5qdmTGJWN5/321229.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://i.imgur.com/iNiHThl.png",DreamWorksᴴᴰ 🇲🇽
+http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://www.centralcomics.com/wp-content/uploads/2023/03/Cartoonito.png",Cartoonito 🇧🇷
+http://199.127.60.83:14682/cartoonito.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://geekdot.live/wp-content/uploads/2023/08/cropped-esi-180x180.png",Geekdotᴴᴰ 🇧🇷 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Loading_TV.svg/1920px-Loading_TV.svg.png",loadingtvᴴᴰ 🇧🇷 
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1499921038.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/nick.jr.png",Nick Jr. Club 🇧🇷 🟠
+https://bit.ly/3rUCg15?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png",Turma da Mônica 🇧🇷 🟠
+https://bit.ly/3cXQNoL?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/UniversoKids.png",Universo Kids 🇧🇷
+https://srv3.zcast.com.br/universo3/universo3/chunklist_w1940630211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG.png",Anime 🇧🇷 🟠
+https://bit.ly/3qY2y4m?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Discovery Kids 🇧🇷
+https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Discovery Kids 🇪🇸
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200",Cartoon Network Latino 🇪🇸
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://sck.pm/sc9k",FunBox 🇵🇪
+https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Kidz.png",Kidz 🇪🇸
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Mr%20Bean.jpg",Mr Bean 🇪🇸
+http://51.159.104.29:8080/mrbean/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/250px-ZooMoo_logo.svg.png",ZooMoo 🇺🇸 🟠
+https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="👨‍🚀CRIANÇA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/pitufotv.webp",Smurf tv 🇺🇸 🟠
+https://bit.ly/49A0DIt?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://i.imgur.com/8NsZxiL.png",Los Pitufos Tv 🇪🇸 🟠
+https://bit.ly/3SlvIZX?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/29/USBA2300001S8_20220330T044603.png",The Lego Channelᴴᴰ 🇺🇸 🟠
+https://bit.ly/3QpzYFN?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png",Inspector Gadget 🇺🇸 🟠
+https://bit.ly/3FblQIm?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://sck.pm/sc9k",TVG Infantil 🇪🇸
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="👨‍🚀CRIANÇA" tvg-logo="https://media.tvup.cloud/canales/color_lg_61ea6fef709aaf001a5581ae.png",POCOYÓ 🇪🇸
+#EXTVLCOPT:http-referrer=https://mediasync.tvup.cloud
+https://daiconnect.com/live/hls/tvup/tvfy-pocoyo/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=[gdprConsent]&UGDPR=1&DLg=[deviceLanguage]&ApStURL=[storeUrl]&DAdID=[ifa]&DAdIDT=[ifaType]&UUA=[userAgent]&UIP=[ip]&ApNm=[appName]&ApV=[appVersion]&DT=[deviceType]&DMk=[deviceMake]&DMdl=[deviceModel]&ApBdl=[bundleId]&DID=[deviceId]
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/pakapaka.webp",Paka Paka 🇦🇷
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w190057400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png",Toon Goggles 🇪🇸
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://www.gogoplaytv.com/images/logo%20gogoplaytv.svg",GogoPlay 🇧🇴
+https://cageu.bozztv.com/ssh101/ssh101/gogoplay/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200",Pequeradio TV 🇪🇸
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png",Tortues Ninja 🇺🇸 🟠
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="👨‍🚀CRIANÇA" tvg-logo="https://sck.pm/gl9u",TG Junior Kids 🟠
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
+
+
