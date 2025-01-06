@@ -113,3 +113,25 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/Red-Bull-Emblema.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",REDBULL TVᴴᴰ 🇧🇷 🟡
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/classic.png" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS",CLASSICTVᴴᴰ 🇧🇷 🟡
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w2066738976.m3u8
+
+#EXTINF:-1 tvg-logo="https://supernetbr.top/SPACE/LOGOS/CATHOLICTV.jpg" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", TV CATOLICA EUA
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", 24H NEWS
+http://cdn.connectbr.com.br/24_news/index.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", TK FOOD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", Investigação Discovery HD
+https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", Discovery Turbo HD
+https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="📺PARABOLICA" pltv-subgroup="CANAIS ABERTOS", PLUTO TV TURBO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
